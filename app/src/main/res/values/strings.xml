@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab 3</string>
+    <string name="profile_message">Your Profile:</string>
+    <string name="name_message">Your name:</string>
+    <string name="name_edit_message">Enter your name</string>
+    <string name="enter_email_message">Your email:</string>
+    <string name="email_message">Enter your email address:</string>
+    <string name="email_edit_message">Type email here</string>
+    <string name="email_val"></string>
+    <string name="password_message">Type your password:</string>
+    <string name="picture_message">Your picture:</string>
+    <string name="button_text">Login</string>
+    <string name="click_message">Click the button above to take a picture</string>
+    <string name="newButton">Go to chat</string>
+    <string name="item1">Item1</string>
+    <string name="receiveButton">Receive</string>
+    <string name="sendButton">Send</string>
+    <string name="text_msg">message goes here</string>
+</resources>

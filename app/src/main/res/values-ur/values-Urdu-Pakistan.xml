@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">لیبارٹری 3</string>
+        <string name="profile_message">آپ کی پروفائل</string>
+        <string name="name_message">آپ کا نام</string>
+        <string name="name_edit_message">اپنا نام درج کریں</string>
+        <string name="enter_email_message">پ کا ای میل</string>
+        <string name="email_message">:لیب اپنا ای میل ایڈریس درج کریں:</string>
+        <string name="email_edit_message">یہاں ای میل ٹائپ کریں</string>
+        <string name="email_val"></string>
+        <string name="password_message">اپنا پاس ورڈ ٹائپ کریں:</string>
+        <string name="picture_message">آپ کی تصویر</string>
+        <string name="button_text" >لاگ ان کریں</string>
+        <string name="click_message">تصویر لینے کے لیے اوپر والے بٹن پر کلک کریں</string>
+        <string name="newButton">چیٹ پر جائیں۔</string>
+        <string name="item1">آئٹم 1</string>
+        <string name="sendButton">بھیجیں</string>
+        <string name="receiveButton">وصول کریں</string>
+        <string name="text_msg">پیغام یہاں جاتا ہے</string>
+</resources>
